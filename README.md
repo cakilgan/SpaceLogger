@@ -1,4 +1,3 @@
-"""
 # SpaceLogger
 
 SpaceLogger is a flexible, customizable, and thread-safe logging library for Java applications. 
